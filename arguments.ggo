@@ -1,0 +1,6 @@
+package "perform"
+version "0.0.1"
+purpose "To do stuff"
+description "Get stuff done!"
+
+option "output" o "Output filename" string optional
